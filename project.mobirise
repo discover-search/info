@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5851,7 +5851,7 @@
     },
     "page11.html": {
       "settings": {
-        "title": "11)3,12",
+        "title": "11)땡,12",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
