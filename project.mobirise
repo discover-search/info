@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "괴상한 아이들의 집합소.",
-        "meta_descr": "아니 그걸 믿었을 줄이야.\n",
+        "title": "안녕 빈센트",
+        "meta_descr": "성은 빈. 이름은 센트. 그는 전설이다.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
