@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -638,7 +638,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -1159,7 +1159,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Page 2",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -1680,7 +1680,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "Page 3",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -2201,7 +2201,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Page 4",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -2722,7 +2722,7 @@
     },
     "page5.html": {
       "settings": {
-        "title": "Page 5",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -3243,7 +3243,7 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Page 6",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -3764,7 +3764,7 @@
     },
     "page7.html": {
       "settings": {
-        "title": "Page 7",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -4285,7 +4285,7 @@
     },
     "page8.html": {
       "settings": {
-        "title": "Page 8",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -4806,7 +4806,7 @@
     },
     "page9.html": {
       "settings": {
-        "title": "Page 9",
+        "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
         "header_custom": "",
         "footer_custom": "",
