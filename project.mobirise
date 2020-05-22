@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "안뇽 빈센트",
-        "meta_descr": "히히",
+        "title": "노넥의 사이트",
+        "meta_descr": "아니 그걸 믿었을 줄이야.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
