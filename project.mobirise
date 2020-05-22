@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#ffcd4a"
@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "search with Discover",
-        "meta_descr": "디스커버에서 검색하세요.",
+        "title": "제발 그런짓좀 하지마",
+        "meta_descr": "야 뭐하냐",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
