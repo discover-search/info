@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page9.html",
+    "currentPage": "imor.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -636,7 +636,7 @@
         }
       ]
     },
-    "page1.html": {
+    "miro.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -1157,7 +1157,7 @@
         }
       ]
     },
-    "page2.html": {
+    "mrio.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -1678,7 +1678,7 @@
         }
       ]
     },
-    "page3.html": {
+    "mori.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -2199,7 +2199,7 @@
         }
       ]
     },
-    "page4.html": {
+    "mior.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -2720,7 +2720,7 @@
         }
       ]
     },
-    "page5.html": {
+    "miror.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -3241,7 +3241,7 @@
         }
       ]
     },
-    "page6.html": {
+    "miroar.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -3762,7 +3762,7 @@
         }
       ]
     },
-    "page7.html": {
+    "imro.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -4283,7 +4283,7 @@
         }
       ]
     },
-    "page8.html": {
+    "roim.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
@@ -4804,7 +4804,7 @@
         }
       ]
     },
-    "page9.html": {
+    "imor.html": {
       "settings": {
         "title": "미로탈출",
         "meta_descr": "미로를 탈출해 봅시다.\n",
